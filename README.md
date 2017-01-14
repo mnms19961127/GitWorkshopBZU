@@ -71,3 +71,4 @@ http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.egit.doc%2Fhelp%2FEG
 https://www.youtube.com/watch?v=BH4OqYHoHC0
 
 step 2
+step 3 : mnms 
